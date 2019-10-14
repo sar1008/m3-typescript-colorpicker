@@ -23,6 +23,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Iteration 4
 - add an input field to the DimensionConfigurator, to change the length
-- add state to "RectangleConfigurator" for width and height of a square
-- add a div with the width and height in state to render a square with this width and height in pixels
-- add eventhandlers in SquareConfigurator and DimensionConfigurator, so that a user can change width and height and the UI gets updated accordingliy
+- add state to "RectangleConfigurator" for width and height of a rectangle
+- add a div with the width and height in state to render a rectangle with this width and height in pixels
+- add eventhandlers in RectangleConfigurator and DimensionConfigurator, so that a user can change width and height and the UI gets updated accordingliy
